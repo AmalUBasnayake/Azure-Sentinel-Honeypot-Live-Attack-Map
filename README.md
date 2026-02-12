@@ -20,20 +20,20 @@ This project showcases the deployment of a **cloud-native Honeypot** on Microsof
 ## 📸 Project Screenshots
 
 ### 1. Global Attack Map: Visualizing Brute-Force Attempts
+![Global Attack Map](Azure-Sentinel/d2.png)
 
-`![Global Attack Map] (Azure-Sentinel/d2.png)` 
 
 ### 2. Top Attacking Countries
 *(මෙතනට ඔයාගේ **`d3.png`** - වැඩියෙන්ම ඇටෑක් කරපු රටවල් පේන Bar Chart එක ඇඩ් කරන්න)*
-`![Top Attacking Countries](path/to/your/d3.png)`
+![Top Attacking Countries](Azure-Sentinel/d3.png)
 
 ### 3. Common Usernames Targeted by Hackers
 *(මෙතනට ඔයාගේ **`d4.png`** - හැකර්ස්ලා ට්‍රයි කරපු Username ටික පේන Chart එක ඇඩ් කරන්න)*
-`![Common Usernames Targeted](path/to/your/d4.png)`
+![Common Usernames Targeted](Azure-Sentinel/d4.png)
 
 ### 4. Real-Time Brute-Force Detection Rule
 *(මෙතනට ඔයාගේ **`193cf6.png`** - "Brute Force Attack detection rule" එක පේන පින්තූරය ඇඩ් කරන්න)*
-`![Brute Force Detection Rule](path/to/your/193cf6.png)`
+![Brute Force Detection Rule](Azure-Sentinel/rule.png)
 
 ## 🚀 Future Enhancements
 * Integrate additional threat intelligence feeds.
@@ -42,3 +42,5 @@ This project showcases the deployment of a **cloud-native Honeypot** on Microsof
 
 ---
 *This project demonstrates practical skills in **Cyber Security, Cloud Computing, SIEM operations, and Threat Hunting.** Feel free to connect and discuss!*
+
+
