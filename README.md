@@ -20,8 +20,8 @@ This project showcases the deployment of a **cloud-native Honeypot** on Microsof
 ## 📸 Project Screenshots
 
 ### 1. Global Attack Map: Visualizing Brute-Force Attempts
-*(මෙතනට ඔයාගේ **`d2.png`** - සිතියම පේන පින්තූරය ඇඩ් කරන්න)*
-`![Global Attack Map] (  /d2.png)` 
+
+`![Global Attack Map] (Azure-Sentinel/d2.png)` 
 
 ### 2. Top Attacking Countries
 *(මෙතනට ඔයාගේ **`d3.png`** - වැඩියෙන්ම ඇටෑක් කරපු රටවල් පේන Bar Chart එක ඇඩ් කරන්න)*
