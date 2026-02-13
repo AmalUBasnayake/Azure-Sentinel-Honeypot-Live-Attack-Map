@@ -42,6 +42,7 @@ This project showcases the deployment of a **cloud-native Honeypot** on Microsof
 
 ---
 *This project demonstrates practical skills in **Cyber Security, Cloud Computing, SIEM operations, and Threat Hunting.** Feel free to connect and discuss!*
-**CREATED BY AMAL | Passionate about Cybersecurity & Security Operations.**
+
+**Developed and documented by Amal Udayanga Basnayake as part of ongoing cybersecurity and detection engineering practice**
 
 
