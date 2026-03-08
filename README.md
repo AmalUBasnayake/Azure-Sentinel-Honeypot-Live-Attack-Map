@@ -1,5 +1,11 @@
 # 🛡️ Azure Honeypot Lab – Real-Time Global Threat Map using Microsoft Sentinel
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service-Log%20Analytics-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Honeypot-Reds?style=for-the-badge" />
+</p>
+
 ## 📝 Project Overview
 
 This project demonstrates how a **cloud-based honeypot environment** can be deployed in Microsoft Azure to detect and analyze real-world cyber attacks.
