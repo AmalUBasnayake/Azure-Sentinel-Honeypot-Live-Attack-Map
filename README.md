@@ -3,6 +3,12 @@
 ## 📝 Project Overview
 This project showcases the deployment of a **cloud-native Honeypot** on Microsoft Azure to monitor and visualize real-time RDP brute-force attacks from around the globe. Leveraging **Microsoft Sentinel (SIEM)** and **Kusto Query Language (KQL)**, I transformed raw security logs into an interactive dashboard and configured automated threat detection.
 
+## 🏗 Architecture
+
+The following diagram shows how attack logs flow from the internet into the honeypot VM and are analyzed by Microsoft Sentinel.
+
+![Architecture](architecture/sentinel-honeypot-architecture.png)
+
 ## 🛠️ Key Technologies & Skills
 * **Cloud Platform:** Microsoft Azure
 * **SIEM Solution:** Microsoft Sentinel
