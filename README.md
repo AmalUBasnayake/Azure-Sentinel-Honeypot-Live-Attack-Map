@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/honeypot.jpg" width="100%" />
+</p>
+
 # 🛡️ Azure Honeypot Lab – Real-Time Global Threat Map using Microsoft Sentinel
 
 <p align="center">
